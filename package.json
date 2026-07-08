@@ -1,7 +1,7 @@
 {
-  "name": "2d_rotation",
+  "name": "dvd-screensaver",
   "version": "1.0.0",
-  "description": "",
+  "description": "A DVD-logo-style canvas screensaver: spawn coloured squares that bounce off the walls.",
   "license": "ISC",
   "author": "",
   "type": "commonjs",
